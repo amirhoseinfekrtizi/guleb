@@ -1,0 +1,29 @@
+.tel{
+    padding: 10px 8px;
+    text-align: left;
+    font-weight: bold;
+    border-radius: 55px;
+    background:linear-gradient( 135deg ,#8bf0eb ,#ffffff57 ,#8bf0eb) 
+}
+
+.sms{
+    padding: 10px 8px;
+    text-align: left;
+    font-weight: bold;
+    border-radius: 55px;
+    background:linear-gradient( 135deg ,#8bf0eb ,#ffffff57 ,#8bf0eb) 
+     
+}
+
+.mailto{
+    padding: 10px 8px;
+    text-align: left;
+    font-weight: bold;
+    border-radius: 55px;
+    background:linear-gradient( 135deg ,#8bf0eb ,#ffffff57 ,#8bf0eb)  
+}
+
+#footer{
+    margin-top: 40%;
+}
+
